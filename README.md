@@ -4,7 +4,7 @@ This repository contains files used for a tutorial on
 [Z3](https://github.com/Z3Prover/z3) tactics given the [SRGgroup](https://srg.doc.ic.ac.uk/)
 at [Imperial College London](https://www.imperial.ac.uk) on Thursday July 27th 2017.
 
-**SLIDE URL:** TODO
+**SLIDE URL:** [Here](https://docs.google.com/presentation/d/1v_d3XXAbl1klh4wO1gbWUdv1bfwIeaVjHD-AqPq-E3k/edit?usp=sharing)
 
 ## Examples
 
